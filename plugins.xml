@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
- <pyqgis_plugin name="GetParking" version="0.3">
+ <pyqgis_plugin name="GetParking" version="0.4">
  <description>This is a test plugin</description>
  <homepage>http://my-site.com/qgis/mypluginz</homepage>
  <qgis_minimum_version>2.2</qgis_minimum_version>
